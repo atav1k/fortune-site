@@ -1,3 +1,8 @@
 :root {
-  
+  --code-font-size: var(--gap-6);
+  --code-padding-y: 0;
+}
+
+* {
+  font-size: 24px;
 }
