@@ -21,6 +21,10 @@ module.exports = {
   /* Customize the progress bar color */
   loading: { color: 'var(--state-primary)' },
 
+  plugins: [
+    { src: '~/plugins/vue-scrollactive' }
+  ],
+
   /* Build configuration*/
   build: {
     postcss: {

@@ -1,8 +1,31 @@
 :root {
   --code-font-size: var(--gap-6);
-  --code-padding-y: 0;
+  --code-padding-y: var(--gap-2);
+  --code-border-radius: 0;
 }
 
 * {
-  font-size: 24px;
+  font-size: 16px;
+}
+
+.code {
+  border-left: var(--gap-2) solid;
+  border-color: var(--purple);
+}
+
+nav {
+  padding: var(--gap-5) 0;
+}
+
+nav a{
+  color: white;
+  /* font-size: var(--space-2); */
+}
+
+nav a:hover{
+  color: white;
+}
+
+a.is-active {
+  font-weight: bold;
 }

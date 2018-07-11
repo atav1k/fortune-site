@@ -16,7 +16,8 @@
     "nuxt": "^1.0.0",
     "pug": "^2.0.3",
     "pug-loader": "^2.4.0",
-    "@nuxtjs/markdownit": "latest"
+    "@nuxtjs/markdownit": "latest",
+    "vue-scrollactive": "^0.6.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
