@@ -2,6 +2,9 @@
   --code-font-size: var(--gap-6);
   --code-padding-y: var(--gap-2);
   --code-border-radius: 0;
+  --headings-color: var(--fuchsia);
+  --p-margin: var(--space-1);
+  --state-primary: var(--grape);
 }
 
 * {
@@ -10,7 +13,7 @@
 
 .code {
   border-left: var(--gap-2) solid;
-  border-color: var(--purple);
+  border-color: var(--violet);
 }
 
 nav {
@@ -18,12 +21,11 @@ nav {
 }
 
 nav a{
-  color: white;
   /* font-size: var(--space-2); */
 }
 
 nav a:hover{
-  color: white;
+  /* color: white; */
 }
 
 a.is-active {
