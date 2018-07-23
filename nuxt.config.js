@@ -1,7 +1,7 @@
 module.exports = {
   /* Site css */
   css: [
-    { src: '~/src/fortune.css' },
+    { src: '~/assets/fortune.min.css' },
     { src: '~/assets/app.css' }
   ],
 

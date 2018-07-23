@@ -9,5 +9,4 @@ npm-debug.log
 
 # Nuxt generate
 dist
-src
 .DS_Store
