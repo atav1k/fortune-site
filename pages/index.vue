@@ -1,6 +1,6 @@
 <template lang="pug">
   article
-    section.marL4
+    section.marX3
       .cols#introduction.padT2.marB3
         .col6
           p.h4 Fortune.css is a friendly CSS variables driven library. It is light, customizable and needs no preprocessor builds.

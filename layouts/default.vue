@@ -5,15 +5,15 @@
         li
           a(href="/").h3 🔮
         li.marGapB4
-          a(href="#introduction").gray.bold.scrollactive-item  Introduction
+          a(href="/#introduction").gray.bold  Introduction
         li.marGapL4.marGapB4
-          a(href="#install").scrollactive-item  Install
+          a(href="/#install")  Install
         li.marGapL4.marGapB4
-          a(href="#theming").scrollactive-item  Theming
+          a(href="/#theming")  Theming
         li.marGapL4.marGapB4
-          a(href="#variables").scrollactive-item  Variables          
+          a(href="/#variables")  Variables
         li.marGapB4
-          a.gray.bold.isDisabled Layout
+          a(href="/layout").gray.bold Layout
         li.marGapB4
           a.gray.bold.isDisabled Components
         li.marGapB4
